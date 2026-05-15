@@ -13,7 +13,7 @@ export function Footer() {
               Barbershop · Kraków
             </div>
             <p className="mt-6 text-muted-foreground max-w-sm leading-relaxed">
-              Miejsce, gdzie styl spotyka precyzję. Premium grooming dla mężczyzn,
+              Miejsce, gdzie styl spotyka precyzję. Premium barbershop dla mężczyzn,
               którzy cenią detal.
             </p>
             <div className="mt-8 flex gap-3">
@@ -66,7 +66,7 @@ export function Footer() {
 
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between gap-4 text-xs text-muted-foreground uppercase tracking-[0.2em]">
           <div>© {new Date().getFullYear()} INTER Barbershop · Wszelkie prawa zastrzeżone</div>
-          <div>Kraków · Premium Grooming</div>
+          <div>Kraków · Premium barbershop</div>
         </div>
       </div>
     </footer>

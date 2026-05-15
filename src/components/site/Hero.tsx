@@ -1,4 +1,4 @@
-import hero from "@/assets/hero.jpg";
+import hero from "@/assets/hero.jpeg";
 
 const BOOKSY = "https://booksy.com/pl-pl/126977_inter-barbershop_barber-shop_8820_krakow";
 
@@ -22,7 +22,7 @@ export function Hero() {
           <div className="flex items-center gap-4 mb-8 reveal visible">
             <span className="hairline" />
             <span className="text-xs uppercase tracking-[0.4em] text-gold">
-              Kraków · Premium Grooming
+              Kraków · Premium Barbershop
             </span>
           </div>
 
