@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Plus } from "lucide-react";
 
 const faqs = [
-  { q: "Jak mogę zarezerwować wizytę?", a: "Najwygodniej online przez Booksy — przycisk „Umów wizytę online" przekieruje Cię do kalendarza. Możesz też zadzwonić pod numer 572 909 261." },
+  { q: "Jak mogę zarezerwować wizytę?", a: "Najwygodniej online przez Booksy — przycisk „Umów wizytę online” przekieruje Cię do kalendarza. Możesz też zadzwonić pod numer 572 909 261." },
   { q: "Czy przyjmujecie bez rezerwacji?", a: "Staramy się przyjmować klientów bez rezerwacji w miarę dostępności, jednak zalecamy wcześniejsze umówienie wizyty, by uniknąć oczekiwania." },
   { q: "Jakie metody płatności akceptujecie?", a: "Akceptujemy gotówkę, karty płatnicze oraz BLIK." },
   { q: "Czy strzyżecie dzieci?", a: "Tak, oferujemy specjalne strzyżenie dla dzieci do 12 roku życia w przyjaznej atmosferze." },
